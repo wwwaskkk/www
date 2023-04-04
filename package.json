@@ -1,0 +1,26 @@
+{
+    "id": "mumu-qrcode",
+    "name": "H5二维码识别（支持本地文件和相机）",
+    "version": "1.0.0",
+    "description": "在H5页面中进行二维码识别",
+    "keywords": [
+        "H5",
+        "二维码",
+        "扫一扫"
+    ],
+    "dcloudext": {
+        "category": [
+            "前端组件",
+            "通用组件"
+        ]
+    },
+    "dependencies": {
+        "aegis-mp-sdk": "^1.24.55",
+        "aegis-web-sdk": "^1.35.23",
+        "aegis-weex-sdk": "^1.24.46",
+        "cos-wx-sdk-v5": "^0.7.11",
+        "tim-js-sdk": "^2.17.1",
+        "tim-upload-plugin": "^1.0.4",
+        "tim-wx-sdk": "^2.15.0"
+    }
+}
